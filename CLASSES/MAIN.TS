@@ -26,4 +26,38 @@
 
 ////////////////////////////////////////////////////
 // DATE : 19 SEPT 2024
+//////////////////////////////////////////////////
+
+// server side rendering website
+// client side rendering website
+// server and client side rendering website ( different pages some server and some client)
+// some component on one page of website are server side rendering and some are client side rendering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
